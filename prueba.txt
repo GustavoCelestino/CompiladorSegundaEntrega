@@ -1,0 +1,64 @@
+DEFVAR
+INT : a1; b1;alpha
+STRING: variable1
+INT : p1; p2; p3
+INT : a;b;Identificador;identificador1;identificador2
+ENDDEF
+***/hola mundo/***
+
+a1:=2
+alpha:=2
+a1:= IF( alpha > 300, a1+1, a1+2)
+a:=530
+b:=2
+a1:=0
+
+
+b:=5*100-2
+
+
+IF(a>2)THEN
+DISPLAY "if simple"
+ENDIF
+
+IF(a>530)THEN
+DISPLAY "parte verdadero"
+ELSE DISPLAY "Parte false"
+ENDIF
+
+
+IF(a1>1 AND b==2)THEN
+DISPLAY "if con and"
+ENDIF
+
+IF(a>10 OR b==2)THEN
+DISPLAY "if con or"
+ENDIF
+
+IF(NOT a>10)THEN
+DISPLAY "if con not"
+ENDIF
+
+
+
+WHILE(a<260)INICIO_WHILE
+DISPLAY "While simple"
+a:=a+1
+END
+
+
+
+WHILE(a<260)INICIO_WHILE
+
+DISPLAY "While 1er anidamiento"
+WHILE(b<260 AND a<260)INICIO_WHILE
+DISPLAY "While 2ndo anidamiento"
+a:=a+1
+END
+END
+identificador1:=1
+identificador2:=2
+identificador1 += identificador2
+
+GET a
+GET variable1

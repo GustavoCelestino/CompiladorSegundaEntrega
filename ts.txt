@@ -1,0 +1,32 @@
+NOMBRE                        |   TIPO    |                VALOR                | L |
+-------------------------------------------------------------------------------------
+a1                            |  Int      |                  -               	| - |
+b1                            |  Int      |                  -               	| - |
+alpha                         |  Int      |                  -               	| - |
+variable1                     |  String   |                  -               	| - |
+p1                            |  Int      |                  -               	| - |
+p2                            |  Int      |                  -               	| - |
+p3                            |  Int      |                  -               	| - |
+a                             |  Int      |                  -               	| - |
+b                             |  Int      |                  -               	| - |
+Identificador                 |  Int      |                  -               	| - |
+identificador1                |  Int      |                  -               	| - |
+identificador2                |  Int      |                  -               	| - |
+_2                            |           |              2               	| - |
+_300                          |           |              300             	| - |
+_1                            |           |              1               	| - |
+_530                          |           |              530             	| - |
+_0                            |           |              0               	| - |
+_5                            |           |              5               	| - |
+_100                          |           |              100             	| - |
+_if simple                    |           |              if simple       	|009|
+_parte verdadero              |           |              parte verdadero 	|015|
+_Parte false                  |           |              Parte false     	|011|
+_if con and                   |           |              if con and      	|010|
+_10                           |           |              10              	| - |
+_if con or                    |           |              if con or       	|009|
+_if con not                   |           |              if con not      	|010|
+_260                          |           |              260             	| - |
+_While simple                 |           |              While simple    	|012|
+_While 1er anidamiento        |           |              While 1er anidamiento	|021|
+_While 2ndo anidamiento       |           |              While 2ndo anidamiento	|022|
